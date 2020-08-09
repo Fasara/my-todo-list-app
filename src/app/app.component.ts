@@ -1,5 +1,4 @@
 import { Component } from "@angular/core";
-import { TodoItem } from "./todo-item";
 
 @Component({
   selector: "my-app",
